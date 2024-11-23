@@ -19,7 +19,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'A personal portfolio website showcasing my projects and skills, built with React and Tailwind CSS.',
     technologies: ['React', 'Tailwind CSS'],
-    liveLink: 'https://portfolio.example.com',
+    liveLink: 'https://sachin-gu.github.io/My_Portfolio/',
     codeLink: 'https://github.com/sachin-gu/My_Portfolio',
   },
 ];
